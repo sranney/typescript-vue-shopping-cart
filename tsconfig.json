@@ -23,6 +23,7 @@
     "./**/*.ts",
     "./**/*.vue",
     "pages/*.vue",
+    "pages/**/*.vue",
     "components/*.vue"
   ],
   "exclude": ["node_modules", ".nuxt", "dist"]
